@@ -2,4 +2,4 @@ transformers
 sentencepiece
 Pillow
 matplotlib
-torch
+protobuf
